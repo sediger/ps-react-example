@@ -4,8 +4,8 @@ A library of React components created in [Creating Reusable React Components](ht
 
 ## Install
 ```
-npm install ps-react-example
+npm install ps-react-example-example
 ```
 
 ## Docs
-[Component documentation](http://sediger.github.io/ps-react)
+[Component documentation](http://sediger.github.io/ps-react-example)
